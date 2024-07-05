@@ -4,3 +4,6 @@
 #### This is an `<h4>` header small
 ##### This is an `<h5>` header more small
 ###### This is an `<h6>` header, which is the smallest
+#
+### Adding an image
+![I use Arch, BTW - Meme](https://i.postimg.cc/1zd2FBqK/btwiusearch.png)
